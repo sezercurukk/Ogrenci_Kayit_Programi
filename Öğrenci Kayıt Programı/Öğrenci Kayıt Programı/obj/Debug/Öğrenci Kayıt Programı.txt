@@ -1,0 +1,6 @@
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\bin\Debug\g6_d3_Odev.exe.config
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\bin\Debug\g6_d3_Odev.exe
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\bin\Debug\g6_d3_Odev.pdb
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\obj\Debug\g6_d3_Odev.csprojResolveAssemblyReference.cache
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\obj\Debug\g6_d3_Odev.exe
+C:\Users\smart.konuk\Documents\cSharpDersleri\g6_d3_Odev\g6_d3_Odev\obj\Debug\g6_d3_Odev.pdb
